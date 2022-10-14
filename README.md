@@ -1,14 +1,16 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+[link to kickstarter challenge](Kick_Challenge.xlsx)
 ### Purpose
 Provide insights to Louise from differnt Kickstarters to help her kickstart her own campaign
 ## Analysis and Challenges
 The analysis is about various Kickstarter campaigns. The challenges are making sure the best results are presented from the limited data available.
 ### Analysis of Outcomes Based on Launch Date
+![Theatre Goal](resources/Theater_Outcomes_vs_Launch.png)
 Louise should start her Theatre campaign in May, June, and July. Campaigns are successful in the summer compared to winter. October, Novemeber, December, January, and Febuary having the lowerst rates. 
 ### Analysis of Outcomes Based on Goals
+![Outcome Based by Goal chart](resources/Outcomes_vs_Goals.png)
 Goals based on 1000 to 4999 have shown the best outcomes with a 72.66%. The with total projects are 534. Less than 1000 may have a higher success rate however, total projects are 186. Simlarly 50000 or more have a failed percentage of 87.50% but with a total projects of 16. 10000 to 14999 show a 45.83% failed ratio with 169 total projects.
 ### Challenges and Difficulties Encountered
 Analyzing different outcomes to determine the most profitable month. 
